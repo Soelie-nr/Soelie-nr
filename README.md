@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soélie Nicolas--Robert
 - 🌱 I’m currently learning in MMI but i would apply in "Informatique Graphique" departement
-- 😄 Pronouns: Elle
-
+- 👩‍💻 Pronouns: Elle
+- ✨ Dream : work to EVE online
 
 <!---
 Soelie-nr/Soelie-nr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
